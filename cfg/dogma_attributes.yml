@@ -1,0 +1,169 @@
+﻿efficiency_kinds:
+  1: "time_efficiency"
+  2: "material_efficiency"
+  3: "cost_efficiency"
+  4: "high_sec_multiplier"
+  5: "low_sec_multiplier"
+  6: "zero_sec_multiplier"
+
+value_kinds:
+  1: "correct"
+  2: "negative whole number"
+  3: "difference from 1"
+  4: "negative or positive whole number"
+
+# Security multipliers do not have check values
+# Rigs
+2355:
+  efficiency: 4
+  value_kind: 1
+2356:
+  efficiency: 5
+  value_kind: 1
+2357:
+  efficiency: 6
+  value_kind: 1
+
+# Efficiencies have two required check values and industry kinds
+# Rigs
+2593:
+  efficiency: 1
+  value_kind: 2
+  check_dogma_group: true
+  check_required_skill: false
+  manufacturing: true
+  invention: true
+  copy: true
+  reaction: false
+2594:
+  efficiency: 2
+  value_kind: 2
+  check_dogma_group: true
+  check_required_skill: false
+  manufacturing: true
+  invention: true
+  copy: true
+  reaction: false
+2595:
+  efficiency: 3
+  value_kind: 2
+  check_dogma_group: true
+  check_required_skill: false
+  manufacturing: true
+  invention: true
+  copy: true
+  reaction: false
+2713:
+  efficiency: 1
+  value_kind: 2
+  check_dogma_group: true
+  check_required_skill: false
+  manufacturing: false
+  invention: false
+  copy: false
+  reaction: true
+2714:
+  efficiency: 2
+  value_kind: 2
+  check_dogma_group: true
+  check_required_skill: false
+  manufacturing: false
+  invention: false
+  copy: false
+  reaction: true
+
+# If check_dogma_group is false then kinds must be specified
+# Structures
+2600:
+  efficiency: 2
+  value_kind: 3
+  check_dogma_group: false
+  check_required_skill: false
+  manufacturing: true
+  invention: false
+  copy: false
+  reaction: false
+2601:
+  efficiency: 3
+  value_kind: 3
+  check_dogma_group: false
+  check_required_skill: false
+  manufacturing: true
+  invention: true
+  copy: true
+  reaction: false
+2602:
+  efficiency: 1
+  value_kind: 3
+  check_dogma_group: false
+  check_required_skill: false
+  manufacturing: true
+  invention: true
+  copy: true
+  reaction: false
+2721:
+  efficiency: 1
+  value_kind: 3
+  check_dogma_group: false
+  check_required_skill: false
+  manufacturing: false
+  invention: false
+  copy: false
+  reaction: true
+
+# check_required_skill and check_dogma_group can never both be true
+# Skills
+312:
+  efficiency: 1
+  value_kind: 4
+  check_dogma_group: false
+  check_required_skill: true
+  manufacturing: true
+  invention: false
+  copy: false
+  reaction: false
+440:
+  efficiency: 1
+  value_kind: 2
+  check_dogma_group: false
+  check_required_skill: false
+  manufacturing: true
+  invention: false
+  copy: false
+  reaction: false
+452:
+  efficiency: 1
+  value_kind: 2
+  check_dogma_group: false
+  check_required_skill: false
+  manufacturing: false
+  invention: false
+  copy: true
+  reaction: false
+1961:
+  efficiency: 1
+  value_kind: 2
+  check_dogma_group: false
+  check_required_skill: false
+  manufacturing: true
+  invention: true
+  copy: true
+  reaction: false
+1982:
+  efficiency: 1
+  value_kind: 2
+  check_dogma_group: false
+  check_required_skill: true
+  manufacturing: true
+  invention: false
+  copy: false
+  reaction: false
+2660:
+  efficiency: 1
+  value_kind: 2
+  check_dogma_group: false
+  check_required_skill: false
+  manufacturing: false
+  invention: false
+  copy: false
+  reaction: true

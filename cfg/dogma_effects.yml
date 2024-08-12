@@ -1,0 +1,85 @@
+6805: "Equipment"
+6806: "Equipment"
+6808: "Ammunition"
+6809: "Ammunition"
+6810: "Drone and Fighter"
+6811: "Drone and Fighter"
+6812: "Basic Small Ship"
+6813: "Basic Small Ship"
+6814: "Basic Medium Ship"
+6815: "Basic Medium Ship"
+6816: "Basic Large Ship"
+6817: "Basic Large Ship"
+6818: "Advanced Small Ship"
+6819: "Advanced Small Ship"
+6820: "Advanced Medium Ship"
+6821: "Advanced Medium Ship"
+6822: "Advanced Large Ship"
+6823: "Advanced Large Ship"
+6824: "Advanced Component"
+6826: "Basic Capital Component"
+6827: "Basic Capital Component"
+6828: "Structure"
+6829: "Structure"
+6830: "Blueprint"
+6831: "Blueprint"
+6836: "Blueprint"
+6837: "Blueprint"
+6838: "Capital Ship"
+6839: "Capital Ship"
+6840: "Ship"
+6841: "Ship"
+6969: "Hybrid"
+6970: "Hybrid"
+6971: "Composite"
+6973: "Composite"
+6974: "Biochemical"
+6975: "Biochemical"
+6887: "Basic Capital Component"
+6888: "Advanced Capital Component"
+6889: "Advanced Capital Component"
+6890: "Advanced Capital Component"
+
+# 6805: ["Equipment", "manufacturing"]
+# 6806: ["Equipment", "manufacturing"]
+# 6808: ["Ammunition", "manufacturing"]
+# 6809: ["Ammunition", "manufacturing"]
+# 6810: ["Drone and Fighter", "manufacturing"]
+# 6811: ["Drone and Fighter", "manufacturing"]
+# 6812: ["Basic Small Ship", "manufacturing"]
+# 6813: ["Basic Small Ship", "manufacturing"]
+# 6814: ["Basic Medium Ship", "manufacturing"]
+# 6815: ["Basic Medium Ship", "manufacturing"]
+# 6816: ["Basic Large Ship", "manufacturing"]
+# 6817: ["Basic Large Ship", "manufacturing"]
+# 6818: ["Advanced Small Ship", "manufacturing"]
+# 6819: ["Advanced Small Ship", "manufacturing"]
+# 6820: ["Advanced Medium Ship", "manufacturing"]
+# 6821: ["Advanced Medium Ship", "manufacturing"]
+# 6822: ["Advanced Large Ship", "manufacturing"]
+# 6823: ["Advanced Large Ship", "manufacturing"]
+# 6824: ["Advanced Component", "manufacturing"]
+# # 6825: ["Equipment", "manufacturing"] This is erroneous, only applies to component rigs
+# 6826: ["Basic Capital Component", "manufacturing"]
+# 6827: ["Basic Capital Component", "manufacturing"]
+# 6828: ["Structure", "manufacturing"]
+# 6829: ["Structure", "manufacturing"]
+# 6830: ["Blueprint", "invention"]
+# 6831: ["Blueprint", "invention"]
+# # 6833: ["Equipment", "manufacturing"] This is erroneous, only applies to research rigs
+# 6836: ["Blueprint", "copying"]
+# 6837: ["Blueprint", "copying"]
+# 6838: ["Capital Ship", "manufacturing"]
+# 6839: ["Capital Ship", "manufacturing"]
+# 6840: ["Ship", "manufacturing"]
+# 6841: ["Ship", "manufacturing"]
+# 6969: ["Hybrid", "reactions"]
+# 6970: ["Hybrid", "reactions"]
+# 6971: ["Composite", "reactions"]
+# 6973: ["Composite", "reactions"]
+# 6974: ["Biochemical", "reactions"]
+# 6975: ["Biochemical", "reactions"]
+# 6887: ["Basic Capital Component", "manufacturing"]
+# 6888: ["Advanced Capital Component", "manufacturing"]
+# 6889: ["Advanced Capital Component", "manufacturing"]
+# 6890: ["Advanced Capital Component", "manufacturing"]

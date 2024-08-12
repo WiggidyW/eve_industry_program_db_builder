@@ -1,0 +1,10 @@
+﻿industry_kinds:
+  1: "manufacturing"
+  2: "invention"
+  3: "copy"
+  4: "reaction"
+
+1: 1.00
+2: 0.02
+3: 0.02
+4: 1.00
